@@ -23,7 +23,7 @@ Please ensure you have done this set up before the workshop
     1. Open your terminal (macOS) or command prompt (windows)
     2. cd to your desktop or any folder you prefer by using " cd ./desktop "
        - Run the following command to get a copy of this repository:
-        - `git clone <git repo url>`
+        - `git clone https://github.com/Reckonzz/wthreactworkshopstudent.git
 - ## Configuring Tailwind CSS
   - For a more detailed set up guide, refer [here](https://tailwindcss.com/docs/guides/create-react-app)
   - Set up tailwind using npm
