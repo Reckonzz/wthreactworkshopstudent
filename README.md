@@ -320,7 +320,7 @@ A self closing tag can also be used. Eg
 ```
 Each tag has its own attributes too. Eg
 ```html
-<button onClick="whenButtonClickRunThisFunction()" />.
+<button onClick="whenButtonClickRunThisFunction" />.
 ``` 
 This button has an event handler function name "whenButtonClickRunThisFunction" that runs everytime the button is clicked.
 
